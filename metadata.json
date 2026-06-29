@@ -1,0 +1,8 @@
+{
+  "name": "Relatorio Preditivo de Risco",
+  "description": "Uma apresentação interativa e executiva de 3 slides contendo um relatório preditivo de risco de projeto com base nos dados reais do time, simulador de desvio de cronograma (ETAs), análise e correlação de dados de silos/sobrecarga, matriz de risco interativa e plano de contingência.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
